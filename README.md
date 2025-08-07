@@ -1,6 +1,5 @@
-### Hello! I'm Humam Afif 👌
-#### bachelor of computer science
-###
+<h1> Hello! I'm Humam Afif 👌</h1>
+<h2>Bachelor of computer science </h2>
 
 ![Header](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzN2NnowbmJ2bXAwa3Ftam81a2xseXBxbWFqaXJyeGs0cjI2czBvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OV1bLOIWwIXRxpXlN/giphy.gif)
 
