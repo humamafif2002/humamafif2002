@@ -34,6 +34,6 @@
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/humamafif2002/humamafif2002/output/snake.svg" alt="Snake animation" />
+
 
 ###
